@@ -12,6 +12,7 @@ format:
 editor: source
 ---
 
+
 ## Simulating Voter Opinion Shifts
 
 <video width="600" controls>
@@ -19,7 +20,8 @@ editor: source
   Your browser does not support the video tag.
 </video>
 
-> A 3D VPython simulation that models how voters in a grid-based society shift opinions over time, influenced by their neighbors, long-range interactions, and random noise.
+
+A 3D VPython simulation that models how voters in a grid-based society shift opinions over time, influenced by their neighbors, long-range interactions, and random noise.
 
 
 ## Overview
@@ -28,10 +30,10 @@ This project demonstrates how opinion dynamics can evolve through local and glob
 
 ### Key Features:
 
-- Visualized with **VPython** in 3D
-- **Red = Conservative**, **Blue = Liberal**, **Yellow = Most Swing-Prone**
-- Models **neighbor influence**, **long-range noise**, and **irrationality**
-- Includes **interactive pause** and **reset** buttons
+- Visualized with VPython in 3D
+- Red = Conservative, Blue = Liberal, Yellow = Most Swing-Prone
+- Models neighbor influence, long-range noise, and irrationality
+- Includes interactive pause and reset buttons
 - Tracks and displays live voter counts and steps
 
 
@@ -39,7 +41,7 @@ This project demonstrates how opinion dynamics can evolve through local and glob
 
 [View Full Python Code on GitHub](https://github.com/kaynathc/psci3200_kaynath/blob/main/Final%20Project.ipynb)
 
-> The full code is hosted on GitHub, including the VPython script and instructions for running it in a Jupyter environment.
+The full code is hosted on GitHub, including the VPython script and instructions for running it in a Jupyter environment.
 
 
 ## Reflections
