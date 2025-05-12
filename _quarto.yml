@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Research Project
       - href: analysis.qmd
-        text: Voter Simulation
+        text: "Voter Simulation"
 
 format:
   html:
