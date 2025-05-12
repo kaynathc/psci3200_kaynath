@@ -1,0 +1,53 @@
+---
+title: "Analysis"
+author: "Kaynath Chowdhury"
+institute: "University of Pennsylvania"
+date: last-modified
+toc: true
+
+format: 
+  html:
+    self-contained: true
+
+editor: source
+---
+
+# Simulating Voter Opinion Shifts
+
+<video width="600" controls>
+  <source src="voter_simulation_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> A 3D VPython simulation that models how voters in a grid-based society shift opinions over time, influenced by their neighbors, long-range interactions, and random noise.
+
+---
+
+## Overview
+
+This project demonstrates how opinion dynamics can evolve through local and global influences. Each voter is represented as a colored 3D box (red or blue), and their opinions may change based on nearby voters or randomly.
+
+### Key Features:
+
+- Visualized with **VPython** in 3D
+- **Red = Conservative**, **Blue = Liberal**, **Yellow = Most Swing-Prone**
+- Models **neighbor influence**, **long-range noise**, and **irrationality**
+- Includes **interactive pause** and **reset** buttons
+- Tracks and displays live voter counts and steps
+
+---
+
+## Code Repository
+
+[View Full Python Code on GitHub](https://github.com/kaynathc/psci3200_kaynath/blob/main/Final%20Project.ipynb)
+
+> The full code is hosted on GitHub, including the VPython script and instructions for running it in a Jupyter environment.
+
+---
+
+## Reflections
+
+This simulation taught me how to:
+- Translate political behavior into computable models
+- Use VPython for dynamic visualization
+- Handle interactivity and user controls in simulations

@@ -7,8 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Research Project
+      - href: analysis.qmd
+        text: Voter Simulation
+      
 
 format:
   html:
