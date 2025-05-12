@@ -10,15 +10,11 @@ website:
         text: Research Project
       - href: analysis.qmd
         text: Voter Simulation
-      
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-    
+
 editor: visual
-
-
-

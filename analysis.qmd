@@ -21,7 +21,6 @@ editor: source
 
 > A 3D VPython simulation that models how voters in a grid-based society shift opinions over time, influenced by their neighbors, long-range interactions, and random noise.
 
----
 
 ## Overview
 
@@ -35,7 +34,6 @@ This project demonstrates how opinion dynamics can evolve through local and glob
 - Includes **interactive pause** and **reset** buttons
 - Tracks and displays live voter counts and steps
 
----
 
 ## Code Repository
 
@@ -43,7 +41,6 @@ This project demonstrates how opinion dynamics can evolve through local and glob
 
 > The full code is hosted on GitHub, including the VPython script and instructions for running it in a Jupyter environment.
 
----
 
 ## Reflections
 
